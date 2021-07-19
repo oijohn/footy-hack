@@ -1,0 +1,9 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<div class="quote">
+  <i class="fa fa-quote-left" aria-hidden="true"></i>
+  <div>
+    <p class="lead">{{ .Inner | markdownify }}</p>
+    <span class="quote-by"> -{{ .Get "by"}}</span>
+  </div>
+</div>
