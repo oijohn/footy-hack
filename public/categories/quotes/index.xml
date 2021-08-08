@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quotes on Timeframe</title>
+    <link>http://example.com/categories/quotes/</link>
+    <description>Recent content in quotes on Timeframe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Wed, 12 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="http://example.com/categories/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jurgen Klopp 119 Funny Quotes</title>
+      <link>http://example.com/post/post-1/</link>
+      <pubDate>Wed, 12 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>http://example.com/post/post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla.</description>
+    </item>
+    
+  </channel>
+</rss>
