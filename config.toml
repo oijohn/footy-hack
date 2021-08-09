@@ -70,11 +70,11 @@ search = true
 # layout
 [params.layout]
 # navigation layout
-navbar = "1" # 1 or 2
+navbar = "2" # 1 or 2
 # post layout
-post = "2" # 1 or 2
+post = "1" # 1 or 2
 # instagram layout
-instafeed = "1" # 1 or 2
+instafeed = "2" # 1 or 2
 
 # Preloader
 [params.preloader]
@@ -125,7 +125,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Nicky Pratt](https://footyhack.com/)"
 
 ################ banner #############
 [Languages.en.params.banner]
@@ -147,7 +147,7 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Quizzes"
 url = "portfolio"
 weight = 3
 
