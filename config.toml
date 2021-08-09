@@ -146,6 +146,11 @@ name = "ABOUT"
 url = "about"
 weight = 2
 
+[[Languages.en.menu.main]]
+name = "Portfolio"
+url = "portfolio"
+weight = 3
+
 
 [[Languages.en.menu.main]]
 name = "CONTACT"
